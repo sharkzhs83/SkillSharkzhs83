@@ -1,4 +1,10 @@
 name: Skill
-version: 1.0
+version: 1.5.1
 main: com.github.sharkzhs83.skill.Main
 api-version: 1.17
+description: SkillPlugin Made By Sharkzhs.
+
+
+commands:
+  Skill:
+    description: Skill Command
