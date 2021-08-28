@@ -1,6 +1,5 @@
 package com.github.sharkzhs83.skill;
 
-import net.md_5.bungee.api.ChatMessageType;
 import org.bukkit.Bukkit;
 import org.bukkit.ChatColor;
 import org.bukkit.Material;
