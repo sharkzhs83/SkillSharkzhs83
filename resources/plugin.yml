@@ -1,0 +1,4 @@
+name: Skill
+version: 1.0
+main: com.github.sharkzhs83.skill.Main
+api-version: 1.17

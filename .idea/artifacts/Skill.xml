@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Skill">
+    <output-path>$USER_HOME$/Desktop/server/plugins</output-path>
+    <root id="archive" name="Skill.jar">
+      <element id="module-output" name="SkillSharkzhs83" />
+      <element id="dir-copy" path="$PROJECT_DIR$/resources" />
+    </root>
+  </artifact>
+</component>
